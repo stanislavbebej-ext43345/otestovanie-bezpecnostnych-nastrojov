@@ -1,0 +1,1 @@
+# otestovanie-bezpecnostnych-nastrojov
